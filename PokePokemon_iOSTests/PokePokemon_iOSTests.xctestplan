@@ -1,0 +1,25 @@
+{
+  "configurations" : [
+    {
+      "id" : "DF64E8F7-06B7-4F45-BC9D-FFAB46F89685",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:PokePokemon.xcodeproj",
+        "identifier" : "867E014B2E64A0E500F07FD9",
+        "name" : "PokePokemon_iOSTests"
+      }
+    }
+  ],
+  "version" : 1
+}
